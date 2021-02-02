@@ -1,4 +1,11 @@
 h1 {
   color: rebeccapurple;
   font-family: helvetica;
+  background-color: lightgrey;
+  border: 5px solid;
+  padding: 50px;
+}
+
+body {
+  background-color: aliceblue;
 }
